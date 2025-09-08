@@ -1,0 +1,11 @@
+streamlit>=1.36
+pandas
+numpy
+matplotlib
+seaborn
+pybaseball
+requests
+Pillow
+CairoSVG
+cairocffi
+python-dateutil
