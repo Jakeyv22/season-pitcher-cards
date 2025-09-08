@@ -1,6 +1,6 @@
 # MLB Season Pitcher Cards (Streamlit)
 
-Create season/date-range pitcher cards built on **Statcast** and **FanGraphs**. Pick a pitcher, choose a window length, and get a single dashboard: season stats, rolling xwOBA, pitch shapes, and percentile ranks — all exportable as a PNG.
+Create season/date-range pitcher cards built on **Statcast** and **Fangraphs**. Pick a pitcher, choose a window length, and get a single dashboard: season stats, rolling xwOBA, pitch shapes, and percentile ranks — all exportable as a PNG.
 
 ## ▶️ Live App
 <!-- Replace with your deployed URL -->
