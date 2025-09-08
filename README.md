@@ -17,7 +17,7 @@ Create season/date-range pitcher cards built on **Statcast** (via `pybaseball`) 
 - **PNG export** button in-app
 
 ## Data sources
-- **Statcast** via [`pybaseball`](https://github.com/jldbc/pybaseball)
+- **MLB Statcast** via [`pybaseball`](https://github.com/jldbc/pybaseball)
 - **Fangraphs**
   
 ## Repo layout
