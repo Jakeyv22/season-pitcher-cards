@@ -10,7 +10,7 @@ Create season/date-range pitcher cards built on **Statcast** and **Fangraphs**. 
 
 ## Features
 - **Date-range cards**: not just game-day — any window within the season
-- **Fangraphs season table**: ERA/FIP/WHIP/K%/BB%/GB% plus Stuff+
+- **Fangraphs season table**: ERA, FIP, WHIP, K%, BB%, GB% plus Stuff+
 - **Percentile rankings**: CSW%, Zone%, Chase%, EV, SIERA
 - **Rolling xwOBA**: 100 PA rolling lines with dotted y-tick guides & month markers
 - **Pitch movement**: scatter + league average “ellipses” by pitch
