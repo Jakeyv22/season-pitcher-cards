@@ -882,7 +882,7 @@ def pitching_dashboard(pitcher_id: int, start_dt: str, end_dt: str) -> Optional[
     )
 
     # 7) Footer
-    ax_footer.text(0,   1, "Created By: Jake Vickroy", ha="left",  va="top", fontsize=24)
+    ax_footer.text(0,   1, "By: Jake Vickroy", ha="left",  va="top", fontsize=24)
     ax_footer.text(0.5, 1, "Color Coding Compares to League Average By Pitch", ha="center", va="top", fontsize=16)
     ax_footer.text(1,   1, "Data: MLB, Fangraphs", ha="right", va="top", fontsize=24)
 
