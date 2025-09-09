@@ -1,6 +1,6 @@
 # pitcher_card_app.py
 # ------------------------------------------------------------
-# Streamlit app for MLB Pitcher Player Cards
+# Streamlit app for MLB Season Pitching Dashboards
 # - Start = Mar 18, 2025 (first game of season)
 # - End   = yesterday (America/Los_Angeles), cannot pick beyond yesterday
 # - Choose pitcher from current rosters (MLB + MiLB; pitchers only)
@@ -18,8 +18,8 @@ import streamlit as st
 
 from mlb_pitcher_card import pitching_dashboard  # must return a Matplotlib Figure
 
-st.set_page_config(page_title="MLB Pitcher Player Cards", layout="wide")
-st.title("MLB Pitcher Player Cards")
+st.set_page_config(page_title="MLB Season Pitching Dashboard", layout="wide")
+st.title("MLB Season Pitching Dashboard")
 
 # -------------------- Roster helpers (unchanged: pitchers only) --------------------
 
