@@ -6,7 +6,7 @@ Create season/date-range pitcher cards built on **Statcast** and **Fangraphs**. 
 <!-- Replace with your deployed URL -->
 [Open the App!](https://mlb-season-pitcher-cards.streamlit.app/)
 
-![Screenshot](assets/tarik_skubal_ytd.png)
+![Screenshot]
 
 ## Features
 - **Date-range cards**: not just game-day — any window within the season
